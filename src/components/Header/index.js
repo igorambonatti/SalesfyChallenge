@@ -13,12 +13,12 @@ export default function Header() {
         </a>
         <Links>
           <a href="/">Início</a>
-          <a href="/">Conta Digital</a>
-          <a href="/">Cartão de crédito</a>
-          <a href="/">Rewards</a>
-          <a href="/">Empréstimo</a>
-          <a href="/">Sobre nós</a>
-          <a href="/">Carreiras</a>
+          <a href="/nuconta">Conta Digital</a>
+          <a href="/cartaonu">Cartão de crédito</a>
+          <a href="/rewards">Rewards</a>
+          <a href="/emprestimo">Empréstimo</a>
+          <a href="/sobre-nos">Sobre nós</a>
+          <a href="/carreiras">Carreiras</a>
           <a href="/converter">Number converter</a>
         </Links>
       </Nav>
