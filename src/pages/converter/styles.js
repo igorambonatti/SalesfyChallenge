@@ -69,7 +69,7 @@ export const User = styled.div`
         margin-bottom: 4px;
       }
       input {
-        height: 35px;
+        height: 30px;
         background-color: rgba(255, 255, 255, 0);
         font-family: inherit;
         border-style: solid;
@@ -81,6 +81,7 @@ export const User = styled.div`
         transition: all 0.15s linear;
         width: 100px;
         margin-left: 10px;
+        text-align: center;
       }
     }
     button {

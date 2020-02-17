@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <Container>
       <Nav>
-        <a href="/">
+        <a href="/cartaonu">
           <img src={logo} alt="Nubank" />
         </a>
         <Links>
